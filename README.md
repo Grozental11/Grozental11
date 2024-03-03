@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Grozental11
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me DM
+- 👀 I’m interested in software development and aviation
+- 🌱 I’m currently doing BSc in Software Engineering at BGU  
+- 📫 DM to reach me or connect via Linkedin 
 
 <!---
 Grozental11/Grozental11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
